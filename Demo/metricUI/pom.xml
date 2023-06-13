@@ -21,7 +21,7 @@ Licensed under the GPL v2 license.  See LICENSE for full terms.
 
     <properties>
         <m2eclipse.wtp.contextRoot>/</m2eclipse.wtp.contextRoot>
-        <myjetty.version>9.2.2.v20140723</myjetty.version>
+        <myjetty.version>9.4.51.v20230217</myjetty.version>
     </properties>
     
     <build>
